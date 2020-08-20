@@ -1,0 +1,19 @@
+{
+  "name": "web-scraper-fe",
+  "version": "1.0.0",
+  "description": "Front end for Amazon Scraper API",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeff5489/Web-Scraper-FE.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jeff5489/Web-Scraper-FE/issues"
+  },
+  "homepage": "https://github.com/jeff5489/Web-Scraper-FE#readme"
+}
