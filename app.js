@@ -11,3 +11,14 @@ function getCraigslistFreeStuff(){
    };
 
 getCraigslistFreeStuff()
+
+// put craigslist scraper in express route
+// return scraped data
+// present data in decent way on front end
+
+// put amazon scraper in express route
+// make it intake a search string
+// send search string from FE
+// add search string value to html input element
+// return scraped data
+// present data in decent way on front end
